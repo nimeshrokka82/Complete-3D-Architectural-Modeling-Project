@@ -6,7 +6,7 @@ A comprehensive architectural design project demonstrating **end-to-end 2D draft
 ## 🖼️ Project Screenshots
 
 ### 1. 2D Floor Plan & Section
-![2D Floor Plan and Section](section_elevation_plan.jpg)
+![2D Floor Plan and Section](section elevation plan.jpg)
 *Detailed floor plan with dimensions, room labels, and sectional cut A-B showing wall and footing details.*
 
 ### 2. 3D Exterior Visualization
